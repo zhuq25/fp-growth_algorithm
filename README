@@ -1,0 +1,7 @@
+This project implements the Frequent Pattern Growth algorithm for data mining in Java. 
+
+### Directions ###
+1. Prepare data in a tab delimited UTF-8 text file and input directory in FpTree and fileReader.
+2. Set support rate to obtain the minimum support condition.
+3. The output prints the minimum support condition, the CPU time, and the frequent itemsets
+   with their respective counts.
